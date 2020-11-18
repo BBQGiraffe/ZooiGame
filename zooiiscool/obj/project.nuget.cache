@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TD62Vtr2tOkGoYtfUUhwYxJxLsMJaQQsN1pWllRb89788hd6ZyKmbyHdKgNbTHznK+3rYEcsloJhN1A8qHfeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\zooiiscool\\zooiiscool\\zooiiscool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
