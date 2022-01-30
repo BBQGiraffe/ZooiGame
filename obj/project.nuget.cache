@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJfxzNSayaVYaaJ0SD00x2lI02MWCtvDJVT7GWyZUgI55TXyW01MLLrbCtB85zExsm3EAX8aBM9jgDM5gyDUzw==",
+  "success": true,
+  "projectFilePath": "/home/bbq/Projects/ZooiGame/ZooiGame.csproj",
+  "expectedPackageFiles": [
+    "/home/bbq/.nuget/packages/csfml/2.5.0/csfml.2.5.0.nupkg.sha512",
+    "/home/bbq/.nuget/packages/sfml.audio/2.5.0/sfml.audio.2.5.0.nupkg.sha512",
+    "/home/bbq/.nuget/packages/sfml.graphics/2.5.0/sfml.graphics.2.5.0.nupkg.sha512",
+    "/home/bbq/.nuget/packages/sfml.net/2.5.0/sfml.net.2.5.0.nupkg.sha512",
+    "/home/bbq/.nuget/packages/sfml.system/2.5.0/sfml.system.2.5.0.nupkg.sha512",
+    "/home/bbq/.nuget/packages/sfml.window/2.5.0/sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
